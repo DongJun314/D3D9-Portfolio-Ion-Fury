@@ -38,7 +38,7 @@
 <br>
 
 ## 🔗 링크
-- [포트폴리오 영상]([https://youtu.be/eDX4UGlbLdY](https://youtu.be/c8Mv_1dBLaY))
+- [포트폴리오 영상](https://youtu.be/eDX4UGlbLdY)
 
 <br>
 
